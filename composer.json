@@ -7,7 +7,7 @@
     },
     "license": "MIT",
     "minimum-stability": "dev",
-        "autoload": {
+    "autoload": {
         "psr-4": {
             "Car\\": "src/Car",
             "Car\\Wheel\\": "src/Car/Wheel"
