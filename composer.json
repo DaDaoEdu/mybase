@@ -9,8 +9,8 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Car\\": "src/Car",
-            "Car\\Wheel\\": "src/Car/Wheel"
+            "Dadaoedu\\Car\\": "src/Dadaoedu/Car",
+            "Dadaoedu\\Car\\Wheel\\": "src/Dadaoedu/Car/Wheel"
         },
         "files": ["src/Dadaoedu/functions.php"]
     }
