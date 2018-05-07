@@ -1,0 +1,17 @@
+{
+    "name": "dadaoedu/mybase",
+    "description": "the base functions",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+        "autoload": {
+        "psr-4": {
+            "Car\\": "src/Car",
+            "Car\\Wheel\\": "src/Car/Wheel"
+        },
+        "files": ["src/Dadaoedu/functions.php"]
+    }
+}

@@ -1,0 +1,9 @@
+.settings
+runtime
+thinkphp
+vendor
+composer.lock
+.buildpath
+.project
+.idea
+/public/.ENV
